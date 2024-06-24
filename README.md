@@ -2,6 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300008B&lines=Hi+there!+I'm+Iman+Muqri;I+am+a+Frontend+Developer)](https://git.io/typing-svg)
 <p align="left"> 
     <a href="https://vuejs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/> </a>
+    <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://cdn.vuetifyjs.com/images/logos/logo.svg" alt="vuetify" width="40" height="40"/> </a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a>
     <a href="https://flutter.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
     <a href="https://laravel.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> </a>
