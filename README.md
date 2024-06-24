@@ -45,7 +45,8 @@
 
 Feel free to reach out if you want to collaborate or just chat about tech!
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImnMuqri&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImnMuqri&layout=compact&theme=radical)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImnMuqri&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImnMuqri&layout=compact&theme=radical)
 
 
 
