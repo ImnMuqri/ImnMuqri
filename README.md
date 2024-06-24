@@ -40,4 +40,6 @@
 
 Feel free to reach out if you want to collaborate or just chat about tech!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImnMuqri&show_icons=true&theme=radical)
+![GitHub Stats](https://your-vercel-instance.vercel.app/api?username=ImnMuqri&show_icons=true&theme=radical&count_private=true&hide=stars)
+
+![Top Langs](https://your-vercel-instance.vercel.app/api/top-langs/?username=ImnMuqri&layout=compact&theme=radical)
