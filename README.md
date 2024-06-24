@@ -1,4 +1,14 @@
 # 👋 Hi, I’m @ImnMuqri
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300008B&lines=Hi+there!+I'm+Iman+Muqri;I+am+a+Frontend+Developer)](https://git.io/typing-svg)
+<p align="left"> 
+    <a href="https://vuejs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a>
+    <a href="https://flutter.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+    <a href="https://laravel.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> </a>
+    <a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
+    <a href="https://www.postgresql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a>
+</p>
 
 ## 👀 Interests
 - Frontend Development
@@ -11,15 +21,10 @@
 - Advanced TypeScript
 - Backend Development (Node.js, Laravel, ASP.NET)
 
-## 💞️ Looking to Collaborate On
-- Frontend projects using Vue.js, Vuetify, Tailwind CSS
-- Full-stack projects with a focus on frontend
-- Projects that involve cross-platform development with Flutter
-
 ## 📫 How to Reach Me
 - Email: [imanmukri555@gmail.com](mailto:imanmukri555@gmail.com)
 - LinkedIn: [Iman Muqri](https://www.linkedin.com/in/imnmuqri)
-
+  
 ---
 
 ## 🛠️ Tech Stack
@@ -40,6 +45,18 @@
 
 Feel free to reach out if you want to collaborate or just chat about tech!
 
-![GitHub Stats](https://your-vercel-instance.vercel.app/api?username=ImnMuqri&show_icons=true&theme=radical&count_private=true&hide=stars)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImnMuqri&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImnMuqri&layout=compact&theme=radical)
 
-![Top Langs](https://your-vercel-instance.vercel.app/api/top-langs/?username=ImnMuqri&layout=compact&theme=radical)
+
+
+
+
+
+
+
+
+
+
+
+
