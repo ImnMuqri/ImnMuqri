@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @ImnMuqri
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300008B&lines=Hi+there!+I'm+Iman+Muqri;I+am+a+Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231E90FF&lines=Hi+there!+I'm+Iman+Muqri;I+am+a+Frontend+Developer)](https://git.io/typing-svg)
 <p align="left"> 
     <a href="https://vuejs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/> </a>
     <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://cdn.vuetifyjs.com/images/logos/logo.svg" alt="vuetify" width="40" height="40"/> </a>
