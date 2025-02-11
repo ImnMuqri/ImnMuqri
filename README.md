@@ -17,8 +17,7 @@
 - Building responsive and dynamic web applications
 
 ## 🌱 Currently Learning
-- Flutter (Beginner)
-- Advanced TypeScript
+- React (Beginner)
 - Backend Development (Node.js, ASP.NET)
 
 ## 📫 How to Reach Me
