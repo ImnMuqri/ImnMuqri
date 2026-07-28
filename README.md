@@ -11,7 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=ImnMuqri&style=for-the-badge&color=A7F3D0&label=VISITORS"/>
 
 <br/><br/>
-<sub>░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░</sub>
+<img src="./matrix-divider.svg" width="100%" alt=""/>
 
 </div>
 
@@ -33,7 +33,7 @@
 ```
 
 <div align="center">
-<sub>░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░</sub>
+<img src="./matrix-divider.svg" width="100%" alt=""/>
 </div>
 
 ## ░▒▓ `ps aux` — what's running
@@ -47,14 +47,14 @@
 
 ## ░▒▓ `apt install` — currently downloading
 
-| MODULE | PROGRESS | NOTE |
-|:---|:---|:---|
-| **React** | `▰▰▰▱▱▱▱▱▱▱` `30%` | beginner — coming from Vue, so the mental model is rewiring |
-| **Node.js** | `▰▰▰▰▰▱▱▱▱▱` `50%` | server-side JavaScript, one endpoint at a time |
-| **ASP.NET** | `▰▰▱▱▱▱▱▱▱▱` `20%` | fresh territory, C# and all |
+<div align="center">
+
+<img src="./matrix-learning.svg" width="700" alt="React 30%, Node.js 50%, ASP.NET 20%"/>
+
+</div>
 
 <div align="center">
-<sub>░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░</sub>
+<img src="./matrix-divider.svg" width="100%" alt=""/>
 </div>
 
 ## ░▒▓ `cat stack.json`
@@ -78,28 +78,21 @@
 ![Vercel](https://img.shields.io/badge/Vercel-F0FDF4?style=for-the-badge&logo=vercel&logoColor=0F172A) ![Git](https://img.shields.io/badge/Git-F0FDF4?style=for-the-badge&logo=git&logoColor=F05032)
 
 <br/>
-<sub>░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░</sub>
+<img src="./matrix-divider.svg" width="100%" alt=""/>
 
 </div>
 
 ## ░▒▓ `./contact`
 
-```
-visitor@github:~$ ./contact --iman
-
-  ->  email      imanmukri555@gmail.com
-  ->  linkedin   /in/imnmuqri
-  ->  status     open to collaborate, or just talk tech
-  _
-```
-
 <div align="center">
+
+<img src="./matrix-contact.svg" width="700" alt="Email imanmukri555@gmail.com · LinkedIn /in/imnmuqri · open to collaborate"/>
 
 <a href="mailto:imanmukri555@gmail.com"><img src="https://img.shields.io/badge/imanmukri555@gmail.com-F0FDF4?style=for-the-badge&logo=gmail&logoColor=047857"/></a>
 <a href="https://www.linkedin.com/in/imnmuqri"><img src="https://img.shields.io/badge/Iman_Muqri-F0FDF4?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
 
 <br/><br/>
-<sub>░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░</sub>
+<img src="./matrix-divider.svg" width="100%" alt=""/>
 
 </div>
 
@@ -113,7 +106,7 @@ visitor@github:~$ ./contact --iman
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImnMuqri&bg_color=F7FEFB&color=022C22&line=059669&point=047857&area_color=A7F3D0&title_color=047857&area=true&hide_border=false&custom_title=commit%20rain" width="98%" alt=""/>
 
 <br/>
-<sub>░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░</sub>
+<img src="./matrix-divider.svg" width="100%" alt=""/>
 
 </div>
 
