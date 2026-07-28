@@ -17,20 +17,11 @@
 
 ## ░▒▓ `whoami`
 
-```
-  matrix.sh — boot log (light mode build)
+<div align="center">
 
-  [ 0.001 ]  opening connection ............  ok
-  [ 0.014 ]  decrypting identity ...........  Iman Muqri  @ImnMuqri
-  [ 0.026 ]  assigning role ................  Frontend Developer
-  [ 0.038 ]  loading native tongue .........  Vue . TypeScript . Vuetify
-  [ 0.047 ]  mounting /interests ...........  4 processes attached
-  [ 0.055 ]  fetching updates ..............  React, ASP.NET incoming
-  [ 0.061 ]  locating spoon ................  no such file or directory
-  [ 0.070 ]  red pill ......................  swallowed
+<img src="./matrix-whoami.svg" width="660" alt="Iman Muqri — frontend developer, Vue and TypeScript, learning React and ASP.NET"/>
 
-  connection established. welcome.
-```
+</div>
 
 <div align="center">
 <img src="./matrix-divider.svg" width="100%" alt=""/>
@@ -44,14 +35,6 @@
 | `002` | **modern web technologies** — chasing what shipped last week | `████████░░` | 🟢 running |
 | `003` | **new frameworks & libraries** — opening every door | `███████░░░` | 🟢 running |
 | `004` | **responsive, dynamic apps** — one layout, every screen | `█████████░` | 🟢 running |
-
-## ░▒▓ `apt install` — currently downloading
-
-<div align="center">
-
-<img src="./matrix-learning.svg" width="700" alt="React 30%, Node.js 50%, ASP.NET 20%"/>
-
-</div>
 
 <div align="center">
 <img src="./matrix-divider.svg" width="100%" alt=""/>
